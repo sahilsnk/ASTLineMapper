@@ -1,0 +1,8 @@
+/home/ubuntu/Desktop/phase4/build/CMakeFiles/intrinsics_gen.dir
+/home/ubuntu/Desktop/phase4/build/CMakeFiles/omp_gen.dir
+/home/ubuntu/Desktop/phase4/build/CMakeFiles/acc_gen.dir
+/home/ubuntu/Desktop/phase4/build/CMakeFiles/RISCVTargetParserTableGen.dir
+/home/ubuntu/Desktop/phase4/build/CMakeFiles/clang-tablegen-targets.dir
+/home/ubuntu/Desktop/phase4/build/CMakeFiles/ast_mapper.dir
+/home/ubuntu/Desktop/phase4/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/Desktop/phase4/build/CMakeFiles/rebuild_cache.dir

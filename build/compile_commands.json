@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/home/ubuntu/Desktop/CDLAB/ASTLineMapper",
+    "command": "clang++ test.cpp",
+    "file": "test.cpp"
+  }
+]
