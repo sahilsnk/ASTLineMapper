@@ -2,7 +2,7 @@
 import sys
 import json
 import base64
-from groq import Groq
+from groq import Groq # type: ignore
 
 # Read the Base64 encoded prompt string from command line argument
 if len(sys.argv) < 2:
