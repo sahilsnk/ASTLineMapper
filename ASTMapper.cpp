@@ -110,7 +110,7 @@ void ASTMappingFrontendAction::EndSourceFileAction() {
   std::string combinedPrompt = combinedPromptStream.str();
 
   std::string encodedPrompt = base64_encode(combinedPrompt);
-  std::string command = "python3 " + std::string("/home/ubuntu/Desktop/phase4/groq_script.py") + " \"" + encodedPrompt + "\"";
+  std::string command = "python3 " + std::string("/path/to/groq_script.py") + " \"" + encodedPrompt + "\"";
 
   //std::cerr << "C++ DEBUG: Executing command: " << command << std::endl;
 
